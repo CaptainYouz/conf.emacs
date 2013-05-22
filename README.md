@@ -1,4 +1,4 @@
-conf.emacs
+My conf emacs
 ==========
 
-My conf emacs
+This is my emacs configuration.
